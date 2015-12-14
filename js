@@ -1,3 +1,8 @@
+/*
+Create by chayangge 
+e-mail:chayangge@163.com
+*/
+
 ;(function($){ 
     $.fn.extend({
         "Timing" : function(time,url,data){
