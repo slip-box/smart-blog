@@ -58,5 +58,5 @@ e-mail:chayangge@163.com
             return this; //保持链式
         }
     });
-})(jQuery)
+})(jQuery);
 ```
