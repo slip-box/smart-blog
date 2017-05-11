@@ -1,0 +1,15 @@
+{
+  "name": "testblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gcf": "0.0.2",
+    "marked": "^0.3.6"
+  }
+}
