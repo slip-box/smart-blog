@@ -1,2 +1,6 @@
+# Build Files
+dist/
 node_modules/
+
+# Private Files
 .gcf
